@@ -1,0 +1,17 @@
+.sablon{width: 760px;height: auto;margin: 30px auto;}
+.logo{width: 100px;height: 100px;float: left;background: url(images/logo.jpg) no-repeat;}
+.banner{width: 630px;height: 60;float: left;margin: 0 0 0 10px;background: #003466;border-radius: 10px;color: white;font: bold 15px tahoma;text-align: center;padding: 40px 0 0 0;}
+.menu{width: 580px;height: 47px;float: left;margin: 10px 0 0 0;background: #00468c;}
+.sosyal{width:150px;height: 47px;float: left;margin: 10px 0 0 10px;}
+.orta1{width: 740px;height: 348px;float: left;margin: 10px 0 10px 0;background: #016dd9;}
+.orta2{width: 240px;height: 240px;float: left;background: #4da6ff;}
+.orta3{width: 240px;height: 240px;float: left;margin: 0 0 0 10px;background: #99cdff;}
+.orta4{width: 240px;height: 240px;float: left;margin: 0 0 0 10px;background: #bedffe;}
+.alt{width: 740px;height: 90px;float: left;margin: 10px 0 0 0;background: #bfeefe;border-radius: 10px;}
+
+/*menunün içindeki ul leri değiştir demek*/
+.menu ul{margin: 0;padding: o;list-style: none;}
+.menu ul li{float: left;}
+/*menunun içinde ul varsa ul nin içinde li varsa li nin içinde a varsa oraları değiştir demek*/
+.menu ul li a{display: block;width: 145px;height: 47px;text-decoration: none;text-align: center;font: 13px tahoma;color: white;}
+
